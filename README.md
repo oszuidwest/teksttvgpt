@@ -3,7 +3,7 @@
 [![Code Quality](https://github.com/oszuidwest/zw-ttvgpt/actions/workflows/lint.yml/badge.svg)](https://github.com/oszuidwest/zw-ttvgpt/actions/workflows/lint.yml)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![PHP Version](https://img.shields.io/badge/PHP-8.3%2B-blue.svg)](https://php.net)
-[![WordPress](https://img.shields.io/badge/WordPress-6.8%2B-blue.svg)](https://wordpress.org)
+[![WordPress](https://img.shields.io/badge/WordPress-7.0%2B-blue.svg)](https://wordpress.org)
 
 WordPress-plugin die de GPT-modellen van OpenAI gebruikt om automatisch korte samenvattingen van artikelen te genereren voor tekst-tv-uitzendingen ('kabelkrant') of teletekst.
 
