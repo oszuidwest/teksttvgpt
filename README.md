@@ -22,7 +22,7 @@ WordPress-plugin die de GPT-modellen van OpenAI gebruikt om automatisch korte sa
 ## Installatie en configuratie
 
 ### Vereisten
-- WordPress 6.8 of hoger
+- WordPress 7.0 of hoger
 - PHP 8.3 of hoger
 - Advanced Custom Fields (ACF) plugin
 - OpenAI API key
