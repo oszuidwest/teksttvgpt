@@ -1,5 +1,8 @@
 # ZuidWest Tekst TV GPT
 
+> [!WARNING]
+> Deze plugin wordt uitgefaseerd en ontvangt geen nieuwe functionaliteit meer. Gebruik voor nieuwe installaties en verdere ontwikkeling de [TekstTV WordPress-plugin](https://github.com/oszuidwest/teksttv-wp-plugin).
+
 [![Code Quality](https://github.com/oszuidwest/zw-ttvgpt/actions/workflows/lint.yml/badge.svg)](https://github.com/oszuidwest/zw-ttvgpt/actions/workflows/lint.yml)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![PHP Version](https://img.shields.io/badge/PHP-8.3%2B-blue.svg)](https://php.net)
